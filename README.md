@@ -1,2 +1,4 @@
-# ModelHub
-Research project repository for LLM and LMM deployment framework
+# ModelHub Roadmap
+## Create a simple framework to run any LLMs.
+## Introduce new Method to accelerate the inference of LLMs.
+## Support the inference of LMMs.
